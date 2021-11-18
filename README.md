@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @perinbanm
+- 👋 Hi, I’m @Perinban Mohanraj
 - 👀 I’m interested in computer and programming
 - 🌱 I’m currently learning python
 - 📫 reach me by email 'perinbanm@gmail.com'
